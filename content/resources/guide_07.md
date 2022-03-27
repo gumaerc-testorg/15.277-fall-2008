@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 259c1122-d0e2-374e-a2b9-ac4c87bfeb13
 resourcetype: Document
 title: Team Feedback To Each Member Activity
 uid: 47ef1ff7-1b50-17e6-9ef3-f2b3e700af31

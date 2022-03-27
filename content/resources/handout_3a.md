@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: fb2b4adb-a9fa-9c52-a69f-36977eff55c9
 resourcetype: Document
 title: 'Impromptu Worksheet '
 uid: 968fb479-8c47-50dc-a531-7c359b530ac6

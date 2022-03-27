@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: fb2b4adb-a9fa-9c52-a69f-36977eff55c9
 resourcetype: Document
 title: Managing Conflict
 uid: 88a337fb-af89-dbb2-440b-cac29c3f7963

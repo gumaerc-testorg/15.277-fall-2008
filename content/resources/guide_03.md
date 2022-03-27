@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 259c1122-d0e2-374e-a2b9-ac4c87bfeb13
 resourcetype: Document
 title: Activity Overview - Impromptu
 uid: fcc3ffe0-983e-ddbb-b8aa-bd7b91416a33

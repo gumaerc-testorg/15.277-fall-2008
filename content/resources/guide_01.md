@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 259c1122-d0e2-374e-a2b9-ac4c87bfeb13
 resourcetype: Document
 title: Team and Individual Goal-Setting Exercise
 uid: 78f57012-a627-c91c-3307-cd7123a8f0b0

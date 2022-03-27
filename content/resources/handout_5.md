@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: fb2b4adb-a9fa-9c52-a69f-36977eff55c9
 resourcetype: Document
 title: Simplified Concepts of Cultures
 uid: 140e735a-42da-e932-9a7a-5fa021559beb

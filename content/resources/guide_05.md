@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 259c1122-d0e2-374e-a2b9-ac4c87bfeb13
 resourcetype: Document
 title: Leadership and Culture Activity
 uid: 0eba7ed5-3194-2783-1bda-264b1e7f38a0

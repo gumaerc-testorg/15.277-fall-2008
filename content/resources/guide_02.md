@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 259c1122-d0e2-374e-a2b9-ac4c87bfeb13
 resourcetype: Document
 title: Giving and Receiving Feedback Activity
 uid: 37362bb8-a9db-0e92-731e-53a1a2099373

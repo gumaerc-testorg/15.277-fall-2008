@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 259c1122-d0e2-374e-a2b9-ac4c87bfeb13
 resourcetype: Document
 title: 'Faculty Guide: Managing Conflict'
 uid: 22beb7cd-9da7-7b73-5511-b4ea625fa09b

@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: fb2b4adb-a9fa-9c52-a69f-36977eff55c9
 resourcetype: Document
 title: Team Presentation Planner
 uid: 4ecff6e4-6a9b-dbd4-d309-3b4aeb27f68b

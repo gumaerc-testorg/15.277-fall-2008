@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 259c1122-d0e2-374e-a2b9-ac4c87bfeb13
 resourcetype: Document
 title: "Instructor\u2019s Guide: Presentation on Leadership Vision Activity"
 uid: 3897d4f7-b33a-c1a2-cf40-35ea06c511bf

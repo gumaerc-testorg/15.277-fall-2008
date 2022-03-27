@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 259c1122-d0e2-374e-a2b9-ac4c87bfeb13
 resourcetype: Document
 title: Active Listening for Managing the Informational Interview Activity
 uid: 64a00f83-b62f-09fa-93f8-a43a6dee2b30

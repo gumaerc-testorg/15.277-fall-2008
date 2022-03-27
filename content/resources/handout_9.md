@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: fb2b4adb-a9fa-9c52-a69f-36977eff55c9
 resourcetype: Document
 title: The Vision of Leadership Exercise
 uid: f01db1f3-81f8-ad4b-a8d6-9ed449daf72e
