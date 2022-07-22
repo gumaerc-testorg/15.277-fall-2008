@@ -5,6 +5,7 @@ file: /courses/15-277-special-seminar-in-communications-leadership-and-personal-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Faculty Guide: Managing Conflict'
 uid: 22beb7cd-9da7-7b73-5511-b4ea625fa09b
 ---
 Facilitator guide for the conflict resolution lab activity.
-

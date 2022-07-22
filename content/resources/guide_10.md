@@ -6,6 +6,7 @@ file: /courses/15-277-special-seminar-in-communications-leadership-and-personal-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Rehearsing the Final Team Presentation
 uid: 6717a608-9675-b9c3-60fd-6403df8fe37d
 ---
 Facilitator guide for the organizational processes (OP) team project presentation rehearsal.
-

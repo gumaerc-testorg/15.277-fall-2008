@@ -7,6 +7,7 @@ file: /courses/15-277-special-seminar-in-communications-leadership-and-personal-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Activity Overview - Impromptu
 uid: fcc3ffe0-983e-ddbb-b8aa-bd7b91416a33
 ---
 Facilitator guide for the lab on structuring an impromptu: provides a slow-motion practice on structure and development of an impromptu, including how to answer a question.
-

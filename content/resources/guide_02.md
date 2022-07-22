@@ -5,6 +5,7 @@ file: /courses/15-277-special-seminar-in-communications-leadership-and-personal-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Giving and Receiving Feedback Activity
 uid: 37362bb8-a9db-0e92-731e-53a1a2099373
 ---
 Facilitator guide for the lab activity on giving and receiving feedback.
-

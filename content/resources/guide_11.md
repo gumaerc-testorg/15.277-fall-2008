@@ -6,6 +6,7 @@ file: /courses/15-277-special-seminar-in-communications-leadership-and-personal-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Final Presentation Review and Feedback
 uid: 5a756ede-5978-6259-84b3-19cf11cac391
 ---
 Facilitator guide for the team review of the project presentation videotape to review goals, objectives, and feedback on the team presentation.
-

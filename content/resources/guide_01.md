@@ -8,6 +8,7 @@ file: /courses/15-277-special-seminar-in-communications-leadership-and-personal-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Team and Individual Goal-Setting Exercise
 uid: 78f57012-a627-c91c-3307-cd7123a8f0b0
 ---
 Facilitator guide for the team and individual goal-setting exercise. Relates Warren Center pre-term orientation team building exercise ("What individual strengths do you bring to the team") to individual and team strengths, needs, objectives and processes
-

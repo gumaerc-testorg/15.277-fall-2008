@@ -6,6 +6,7 @@ file: /courses/15-277-special-seminar-in-communications-leadership-and-personal-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Instructor\u2019s Guide: Presentation on Leadership Vision Activity"
 uid: 3897d4f7-b33a-c1a2-cf40-35ea06c511bf
 ---
 Facilitator guide for the lab activity on communicating your vision of leadership to your organization.
-

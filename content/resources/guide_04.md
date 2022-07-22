@@ -7,6 +7,7 @@ file: /courses/15-277-special-seminar-in-communications-leadership-and-personal-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Leadership Story Activity Overview
 uid: e3410bf7-39fc-442f-a169-8e6e393632b1
 ---
 Facilitator guide for the storytelling about leadership lab: tell a story about an intense experience of leadership—either your own or someone else's leadership.
-

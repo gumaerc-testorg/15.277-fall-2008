@@ -6,6 +6,7 @@ file: /courses/15-277-special-seminar-in-communications-leadership-and-personal-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Leadership and Culture Activity
 uid: 0eba7ed5-3194-2783-1bda-264b1e7f38a0
 ---
 Facilitator guide for the culture and leadership exercise to identify leadership characteristics you most admire associated with your culture.
-

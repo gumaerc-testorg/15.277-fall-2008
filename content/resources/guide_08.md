@@ -6,6 +6,7 @@ file: /courses/15-277-special-seminar-in-communications-leadership-and-personal-
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Active Listening for Managing the Informational Interview Activity
 uid: 64a00f83-b62f-09fa-93f8-a43a6dee2b30
 ---
 Facilitator guide for the active listening for managing the informational interview lab activity.
-
