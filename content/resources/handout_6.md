@@ -2,6 +2,7 @@
 content_type: resource
 description: Class handout on managing conflict.
 file: /courses/15-277-special-seminar-in-communications-leadership-and-personal-effectiveness-coaching-fall-2008/88a337fbaf89dbb2440bcac29c3f7963_handout_6.pdf
+file_size: 860867
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
