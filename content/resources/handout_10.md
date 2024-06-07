@@ -3,6 +3,7 @@ content_type: resource
 description: Team presentation planner for a the organizational processes (OP) team
   project presentation rehearsal.
 file: /courses/15-277-special-seminar-in-communications-leadership-and-personal-effectiveness-coaching-fall-2008/4ecff6e46a9bdbd4d3093b4aeb27f68b_handout_10.pdf
+file_size: 834989
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
