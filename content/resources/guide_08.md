@@ -2,7 +2,7 @@
 content_type: resource
 description: Facilitator guide for the active listening for managing the informational
   interview lab activity.
-file: /courses/15-277-special-seminar-in-communications-leadership-and-personal-effectiveness-coaching-fall-2008/64a00f83b62f09fa93f8a43a6dee2b30_guide_08.pdf
+file: /ol-ocw-studio-app/courses/15-277-special-seminar-in-communications-leadership-and-personal-effectiveness-coaching-fall-2008/64a00f83b62f09fa93f8a43a6dee2b30_guide_08.pdf
 file_size: 812732
 file_type: application/pdf
 learning_resource_types:
