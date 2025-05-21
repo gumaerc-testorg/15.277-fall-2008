@@ -2,7 +2,7 @@
 content_type: resource
 description: Facilitator guide for the lab activity on communicating your vision of
   leadership to your organization.
-file: /ol-ocw-studio-app/courses/15-277-special-seminar-in-communications-leadership-and-personal-effectiveness-coaching-fall-2008/3897d4f7b33ac1a2cf4035ea06c511bf_guide_09.pdf
+file: /courses/15-277-special-seminar-in-communications-leadership-and-personal-effectiveness-coaching-fall-2008/3897d4f7b33ac1a2cf4035ea06c511bf_guide_09.pdf
 file_size: 803006
 file_type: application/pdf
 learning_resource_types:
