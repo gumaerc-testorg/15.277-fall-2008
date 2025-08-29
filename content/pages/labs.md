@@ -5,7 +5,7 @@ description: This section includes the facilitator guides for each class session
   the class activities and discussion. While they provide a description of the class
   activities, the guides are aimed at educators rather than students.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 259c1122-d0e2-374e-a2b9-ac4c87bfeb13
