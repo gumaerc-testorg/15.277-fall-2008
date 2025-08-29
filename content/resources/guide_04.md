@@ -7,7 +7,7 @@ file: /ol-ocw-studio-app/courses/15-277-special-seminar-in-communications-leader
 file_size: 804650
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
