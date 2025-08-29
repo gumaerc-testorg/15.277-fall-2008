@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Facilitator guide for the conflict resolution lab activity.
-file: /courses/15-277-special-seminar-in-communications-leadership-and-personal-effectiveness-coaching-fall-2008/22beb7cd9da77b735511b4ea625fa09b_guide_06.pdf
+file: /ol-ocw-studio-app/courses/15-277-special-seminar-in-communications-leadership-and-personal-effectiveness-coaching-fall-2008/22beb7cd9da77b735511b4ea625fa09b_guide_06.pdf
 file_size: 829945
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
